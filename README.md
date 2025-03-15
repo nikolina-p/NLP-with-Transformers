@@ -1,2 +1,4 @@
 # NLP-with-Transformers
-Using Huggingface transformers to fine-tune NLP models following the NLP with Transformers book. 
+This repository contains my Google Colab notebooks based on the book NLP with Transformers by Tunstall, von Platen, and Wolf. 
+
+
